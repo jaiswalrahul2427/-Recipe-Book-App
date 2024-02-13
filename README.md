@@ -34,7 +34,7 @@ Contributions to the Recipe Book App are welcome. If you find any bugs or have s
 
 This Recipe Book App utilizes the Spoonacular API to fetch random recipes. Credits to Spoonacular for providing the API service.
 
-**NOTE -**If the website is not working, you may need to change the API key of Spoonacular as it may expire after some time. You can obtain a new API key from their website: https://spoonacular.com/food-api
+**NOTE -** If the website is not working, you may need to change the API key of Spoonacular as it may expire after some time. You can obtain a new API key from their website: https://spoonacular.com/food-api
 
 
 
